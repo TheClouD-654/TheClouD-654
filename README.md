@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/arunangshu-roy-bhadra-804bab385/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/arunangshu-roy-bhadra-804bab385/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunangshucloud@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_fake_cloud)
 [![GitHub followers](https://img.shields.io/github/followers/TheClouD-654?style=for-the-badge&logo=github&color=181717)](https://github.com/TheClouD-654?tab=followers)
