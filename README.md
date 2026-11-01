@@ -83,26 +83,13 @@ status:      Open to internships 🟢
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheClouD-654&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheClouD-654&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+<img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="GitHub stats" />
 
-<br/>
+<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Most used languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=TheClouD-654&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheClouD-654&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-
-</div>
-
-<br/>
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheClouD-654&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="60%" alt="Productive time" />
 
 </div>
 
